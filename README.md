@@ -1,43 +1,39 @@
-# Hi, I'm NytFury2k 👋
+# Hi, I'm Vaishnav Shetty 👋
 
-## About Me
+**CS (AI & ML) @ PES University '27 · Backend + Applied AI**
 
-I'm a software developer and student building practical applications across data science, web development, desktop software, and computer science coursework.
+I build working software end to end: Flask/FastAPI backends, Bluetooth device integrations, data pipelines, and lately AI agents and MCP servers. I've done two SDE internships and shipped production tools used by real teams.
 
-I enjoy turning ideas into useful tools—from data-driven forecasting systems and web applications to desktop productivity software and database projects.
+🎯 Looking for **Applied AI / Forward Deployed Engineer / SDE** internships and new-grad roles.
 
-## What I'm Working With
+---
 
-- **Languages:** Python, C++, C#
-- **Data & AI:** Sentiment analysis, forecasting, machine learning, data collection
-- **Web:** HTML, Streamlit, FastAPI, Vercel deployments
-- **Desktop:** C# desktop application development
-- **Databases:** PostgreSQL, MongoDB, SQL-based application design
-- **Tools:** Git, GitHub, REST APIs
+## 🛠️ Stack
 
-## Featured Projects
+**Languages:** Python · JavaScript · C# · C/C++ · Kotlin · SQL
+**Backend:** Flask · FastAPI · REST APIs · Auth & RBAC
+**Frontend:** React · Vite · HTML/CSS
+**Data & AI:** pandas · scikit-learn · TensorFlow · PyTorch · MCP · LLM agents
+**Infra:** PostgreSQL · Supabase · MySQL · MongoDB · Docker · Vercel · Git
 
-### 📊 [Social Sentiment Forecasting](https://github.com/NytFury2k/social-sentiment-forecasting)
-A multi-platform economic sentiment analysis and forecasting system using Reddit, Google Trends, and news data. It includes data collection, sentiment analysis, forecasting, and dashboard visualization.
+---
+
+## 🚀 Featured projects
 
 ### 🧹 [Excel Cleaner 2026](https://github.com/NytFury2k/Excel-Cleaner-2026)
-A web-based Excel cleaning tool designed to simplify spreadsheet preparation and data cleanup.
+A multi-user data-cleaning platform with type detection, rule-based cleaning, fuzzy deduplication with survivorship merging, 4-tier RBAC, audit logs and a token-authenticated REST API.
+`Flask` `PostgreSQL` `pandas` `Docker`
 
-### 🧠 [NeuroTouch Desktop App](https://github.com/NytFury2k/NeuroTouch-Desktop-App)
-A C# desktop application project focused on building an interactive software experience.
+### 📱 [Phone Trackpad](https://github.com/NytFury2k/PhoneTrackpad)
+An Android app that turns your phone into a wireless trackpad and keyboard for Windows using the BLE HID-over-GATT profile. Windows sees it as a real Bluetooth mouse and keyboard, so no PC software is needed.
+`Kotlin` `Android` `Bluetooth LE`
 
-### 🎬 [Movies Ticketing System](https://github.com/NytFury2k/Movies_ticketing_system)
-A Python database project for managing movie ticket booking workflows.
+### 📊 [Social Sentiment Forecasting](https://github.com/NytFury2k/social-sentiment-forecasting)
+An economic sentiment pipeline that pulls from Reddit, Google Trends and news, runs sentiment models, forecasts indicators like unemployment and inflation, and shows the results on a live dashboard.
+`FastAPI` `Streamlit` `TensorFlow` `Docker`
 
-## Current Goals
+---
 
-- Build more polished full-stack and data-focused applications
-- Improve my machine learning and software architecture skills
-- Create clean, practical tools that solve real problems
-- Continue learning through projects and experimentation
-
-## Let's Connect
-
-I'm always interested in learning, collaborating, and discussing software development, data, and new project ideas.
-
-⭐ Feel free to explore my repositories and follow along with my work!
+## 📫 Connect
+<!-- TODO: add your LinkedIn URL and email -->
+[LinkedIn](#) · [Email](#)
